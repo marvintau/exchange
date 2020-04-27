@@ -1,0 +1,16 @@
+{
+  "name": "@marvintau/exchange",
+  "version": "0.0.1",
+  "description": "A React component that handles the data interaction with backend, and the dependecy among data, wrapped in the form of React Context Provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yue Marvin Tao",
+  "license": "MIT",
+  "dependencies": {
+    "@marvintau/chua": "^1.0.14",
+    "react": "^16.13.1",
+    "superagent": "^5.2.2"
+  }
+}
