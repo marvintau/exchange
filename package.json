@@ -1,6 +1,6 @@
 {
   "name": "@marvintau/exchange",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "author": "marvintau",
   "license": "MIT",
@@ -57,5 +57,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@marvintau/chua": "^1.0.15"
+  }
 }
